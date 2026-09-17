@@ -1,32 +1,207 @@
-<h1 align="center">Hi 👋, I'm Youssef Deghidy</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hey 👋, I'm Uday Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-abdelraafi&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-abdelraafi" /> </p>
+<h3 align="center">
+  Tech Content Creator • Builder • Hackathon Mentor • Open Source Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-abdelraafi" alt="youssef-abdelraafi" /></a> </p>
-
-- 🔭 I’m currently working on **Technoversity.ai-(Private client project)**
-
-- 🌱 I’m currently learning **Azure DevOps and AI Integration**
-
-- 👯 I’m looking to collaborate on [.NET / Angular open-source projects](https://github.com/Youssef-AbdelRaafi/Cynosura.Studio.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Youssef-AbdelRaafi](https://github.com/Youssef-AbdelRaafi)
-
-- 📫 How to reach me **youssefdaghidi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RZ7sIbX6t4wju5tmCNWFGXMI0BBIEszn/view?usp=sharing](https://drive.google.com/file/d/1RZ7sIbX6t4wju5tmCNWFGXMI0BBIEszn/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youssef-abdel-raafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-abdel-raafi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/udaysharmadev">
+    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/udaysharmadev?tab=followers">
+    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/udaysharmadev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/udaysharmadev?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/uday-sharma-5566a82b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/udaysharmaaaaa/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/udaysharmadev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-abdelraafi&show_icons=true&locale=en&layout=compact" alt="youssef-abdelraafi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-abdelraafi&show_icons=true&locale=en" alt="youssef-abdelraafi" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-abdelraafi&" alt="youssef-abdelraafi" /></p>
+I'm **Uday Sharma**, a tech content creator, builder, hackathon mentor, and open-source enthusiast.
+
+I enjoy turning ideas into useful products, helping developers build better projects, and creating resources that make technology easier to understand and use.
+
+* 🎥 **500K+** tech content creator
+* 🧑‍⚖️ **35×** Hackathon Judge & Mentor
+* 🎤 **28×** Guest Speaker
+* 🏗️ Co-Founder of **HackShastra**
+* 🚀 Founder of **Devndez**
+* 🤖 Building tools around **AI, developer productivity & automation**
+* 🌱 Exploring **AI engineering, developer tools and open source**
+* 💡 Passionate about **hackathons, learning resources and community building**
+
+> **Build. Share. Teach. Repeat.**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" alt="Uday's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=udaysharmadev&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## 📅 Commit Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaysharmadev&theme=github_dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev/Not-Ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Not-Ai&theme=transparent&hide_border=true" alt="Not-Ai" />
+  </a>
+  <a href="https://github.com/udaysharmadev/The-Hackathon-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=The-Hackathon-Simulator&theme=transparent&hide_border=true" alt="The Hackathon Simulator" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev/Hackathon-Starter-Pack-Complete-Guide-Roadmap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=Hackathon-Starter-Pack-Complete-Guide-Roadmap&theme=transparent&hide_border=true" alt="Hackathon Starter Pack" />
+  </a>
+  <a href="https://github.com/udaysharmadev/prasang-file">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=prasang-file&theme=transparent&hide_border=true" alt="PRASANG" />
+  </a>
+</p>
+
+### 🔎 More Projects
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,html,css&perline=8" alt="Programming Languages" />
+</p>
+
+### Frameworks & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,threejs,vite&perline=8" alt="Frameworks and Development Tools" />
+</p>
+
+### AI & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mongodb,postgresql&perline=8" alt="AI and Data Technologies" />
+</p>
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman&perline=8" alt="DevOps and Developer Tools" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+AI Engineering        ████████████████████░░░░  85%
+Developer Tools       ██████████████████░░░░░░  75%
+Open Source            ███████████████████░░░░░  80%
+Hackathon Systems      █████████████████████░░░  90%
+Community Building     ██████████████████████░░  95%
+```
+
+---
+
+## 💻 What I Like Building
+
+```text
+🤖 AI-powered developer tools
+🧑‍💻 Developer productivity systems
+🏆 Hackathon platforms & resources
+📚 Learning & roadmap platforms
+🌐 Full-stack web applications
+🔧 Open-source utilities
+⚡ Automation & workflow tools
+```
+
+---
+
+## 🌟 Open Source & Community
+
+I enjoy building in public, sharing resources, mentoring developers, judging hackathons, and contributing to the developer community.
+
+If you're working on something interesting around **AI, developer tools, hackathons, open source, or education**, feel free to reach out.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/uday-sharma-5566a82b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/udaysharmaaaaa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💬 Have an idea? Let's build something interesting together.</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer" />
+</p>
