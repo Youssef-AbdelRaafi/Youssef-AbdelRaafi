@@ -46,44 +46,6 @@ public sealed class Youssef : ISoftwareEngineer
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Baytology
-**AI-Powered Arabic Real Estate Platform** · *Graduation Project*
-
-.NET 10 backend on **Clean Architecture + CQRS + DDD** with JWT/OAuth, Paymob payments, and real-time chat & notifications over SignalR. A hybrid AI pipeline bridges **Python microservices** (NLP chatbot, FAISS recommendation engine, voice & image search) through **RabbitMQ** with automatic fallback — powering multi-modal property search.
-
-`.NET 10` `CQRS` `DDD` `SignalR` `RabbitMQ` `Python` `FAISS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 AutoFix Pro Center
-**Workshop Management Platform** · *Personal Project*
-
-Full-stack workshop system in **ASP.NET Core + Blazor WASM + SQL Server**, featuring a work-order state machine, JWT auth, SignalR live updates, PDF invoicing, and HybridCache. Production-grade quality via a **4-layer testing pyramid** (unit, subcutaneous, integration with Testcontainers) and full observability with **Serilog, OpenTelemetry & Grafana**.
-
-`Blazor WASM` `Testcontainers` `OpenTelemetry` `Grafana` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Book Distribution & Sales System
-**Client Project** · *Freelance*
-
-Production-ready inventory and distribution platform on **ASP.NET Core + Angular + EF Core + SQLite**, with secure RESTful APIs, role-based authorization, integrated invoicing (orders, refunds, receipt vouchers), automated stock adjustments, real-time dashboard analytics, and **bilingual Arabic/English** invoice generation.
-
-`Angular` `EF Core` `Tailwind CSS` `Docker` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🧱 .NET Clean Architecture Template
 **Reusable Starter Template**
 
