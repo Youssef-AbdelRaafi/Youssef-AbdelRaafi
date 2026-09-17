@@ -1,22 +1,23 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      GitHub Profile README — Youssef Deghidy (@Youssef-AbdelRaafi)
-     Drop this file in a repo named exactly: Youssef-AbdelRaafi
+
+     Repo name must be exactly:  Youssef-AbdelRaafi
+     Required files:
+        README.md
+        assets/header.svg     <-- the animated banner (self-hosted, never breaks)
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Youssef%20Deghidy&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20Angular%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
-
-<a href="https://github.com/Youssef-AbdelRaafi">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20%26%20Full-Stack%20.NET%20Developer;Clean%20Architecture%20%7C%20CQRS%20%7C%20DDD;ASP.NET%20Core%20%2B%20Angular%20%2B%20SQL%20Server;AI%20Integration%20%26%20Azure%20DevOps%20Learner&font=Fira%20Code&size=22&weight=500&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=45" alt="what I do" />
-</a>
+<!-- Animated header: lives in YOUR repo, so it cannot go down -->
+<img src="./assets/header.svg" alt="Youssef Deghidy — Software Engineer" width="100%" />
 
 <br/>
 
 <a href="https://linkedin.com/in/youssef-abdel-raafi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:youssefdaghidi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/1RZ7sIbX6t4wju5tmCNWFGXMI0BBIEszn/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-<img src="https://komarev.com/ghpvc/?username=Youssef-AbdelRaafi&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="profile views" />
+<a href="https://drive.google.com/file/d/1RZ7sIbX6t4wju5tmCNWFGXMI0BBIEszn/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<img src="https://komarev.com/ghpvc/?username=Youssef-AbdelRaafi&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -86,7 +87,7 @@ Production-ready inventory and distribution platform on **ASP.NET Core + Angular
 ### 🧱 .NET Clean Architecture Template
 **Reusable Starter Template**
 
-An opinionated **.NET 10** starter built from scratch: Clean Architecture layering, CQRS with MediatR-style pipelines, DDD building blocks, validation, and result handling — so new services start from a tested foundation instead of a blank folder.
+An opinionated **.NET 10** starter built from scratch: Clean Architecture layering, CQRS pipelines, DDD building blocks, validation, and result handling — so new services start from a tested foundation instead of a blank folder.
 
 `Clean Architecture` `CQRS` `DDD` `.NET 10`
 
@@ -95,7 +96,7 @@ An opinionated **.NET 10** starter built from scratch: Clean Architecture layeri
 </table>
 
 <div align="center">
-<a href="https://github.com/Youssef-AbdelRaafi?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" /></a>
+<a href="https://github.com/Youssef-AbdelRaafi?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </div>
 
 ---
@@ -123,7 +124,7 @@ An opinionated **.NET 10** starter built from scratch: Clean Architecture layeri
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-B61F23?style=flat-square&logo=nuget&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Frontend**
@@ -166,16 +167,24 @@ An opinionated **.NET 10** starter built from scratch: Clean Architecture layeri
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291D89?style=flat-square&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
-![SOLID](https://img.shields.io/badge/SOLID%20%26%20Design%20Patterns-0d1117?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0d1117?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS%20%2B%20DDD-0d1117?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0d1117?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID%20%26%20Design%20Patterns-30363D?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-30363D?style=flat-square)
+![CQRS + DDD](https://img.shields.io/badge/CQRS%20%2B%20DDD-30363D?style=flat-square)
+![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-30363D?style=flat-square)
 
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
+
+<!-- ───────────────────────────────────────────────────────────────────────
+     NOTE: the five images below are served by free third-party apps.
+     If any of them show a broken icon or an error card, it is almost always
+     rate limiting on the shared public instance — NOT a mistake in this file.
+     Fix permanently by deploying your own instances (see SETUP.md), then just
+     replace the hostnames below with your own Vercel URLs.
+     ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
@@ -200,9 +209,9 @@ An opinionated **.NET 10** starter built from scratch: Clean Architecture layeri
 
 <div align="center">
 
-### 💡 *"Architecture is the decisions you wish you could change later — so make them deliberately."*
+### 💡 *"Architecture is the set of decisions you wish you could change later — so make them deliberately."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
+<br/>
 
 ⭐️ From [Youssef-AbdelRaafi](https://github.com/Youssef-AbdelRaafi)
 
