@@ -1,302 +1,209 @@
-<h1 align="center">Hi 👋, I'm Youssef Deghidy</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════
+     GitHub Profile README — Youssef Deghidy (@Youssef-AbdelRaafi)
+     Drop this file in a repo named exactly: Youssef-AbdelRaafi
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Software Engineer | .NET & Angular Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/youssef-abdelraafi">
-    <img src="https://komarev.com/ghpvc/?username=youssef-abdelraafi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/youssef-abdelraafi?tab=followers">
-    <img src="https://img.shields.io/github/followers/youssef-abdelraafi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/youssef-abdelraafi?tab=repositories">
-    <img src="https://img.shields.io/github/stars/youssef-abdelraafi?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars" alt="GitHub Stars" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Youssef%20Deghidy&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20Angular%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 
-<p align="center">
-  <a href="https://github.com/Youssef-AbdelRaafi">
-    <img src="https://img.shields.io/badge/GitHub-Youssef--AbdelRaafi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/youssef-abdel-raafi">
-    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Deghidy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://github.com/Youssef-AbdelRaafi">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20%26%20Full-Stack%20.NET%20Developer;Clean%20Architecture%20%7C%20CQRS%20%7C%20DDD;ASP.NET%20Core%20%2B%20Angular%20%2B%20SQL%20Server;AI%20Integration%20%26%20Azure%20DevOps%20Learner&font=Fira%20Code&size=22&weight=500&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=45" alt="what I do" />
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/youssef-abdel-raafi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:youssefdaghidi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/1RZ7sIbX6t4wju5tmCNWFGXMI0BBIEszn/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<img src="https://komarev.com/ghpvc/?username=Youssef-AbdelRaafi&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="profile views" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Youssef Deghidy**, a Software Engineer passionate about building scalable applications, modern web experiences, cloud solutions, and intelligent systems.
+```csharp
+public sealed class Youssef : ISoftwareEngineer
+{
+    public string Role        => "Backend / Full-Stack .NET Developer";
+    public string Education   => "B.Sc. Artificial Intelligence — Delta University (2026)";
+    public string Location    => "Tanta, Gharbia, Egypt";
+    public string[] Focus     => ["ASP.NET Core", "Angular", "Clean Architecture", "CQRS + DDD"];
+    public string[] Learning  => ["Azure DevOps", "AI Integration", "Distributed Systems"];
+    public string Philosophy  => "Ship it clean, test it properly, observe it in production.";
+}
+```
 
-* 🔭 I'm currently working on **Technoversity.ai** — Private Client Project
-* 🌱 I'm currently learning **Azure DevOps and AI Integration**
-* 👯 I'm looking to collaborate on **.NET / Angular Open Source Projects**
-* 💻 All of my projects are available on **GitHub**
-* 🤖 Interested in **AI Integration, Cloud, DevOps, and Full-Stack Development**
-* 🚀 Passionate about building clean, maintainable, and scalable software
-* 🧠 Always learning, experimenting, and improving
+- 🔭 Currently building **Technoversity.ai** — a private client project
+- 🌱 Currently deepening **Azure DevOps**, **CI/CD pipelines**, and **AI integration in .NET**
+- 👯 Open to collaborating on **.NET / Angular open-source** — e.g. [Cynosura.Studio](https://github.com/Youssef-AbdelRaafi/Cynosura.Studio)
+- 💬 Ask me about **Clean Architecture, CQRS, EF Core, SignalR, Docker, testing strategy**
+- 📫 Reach me at **youssefdaghidi@gmail.com**
+- 🌍 Languages: **Arabic (native)** · **English (upper-intermediate)**
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>⚙️ .NET</h3>
-      <p>Backend & APIs</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🅰️ Angular</h3>
-      <p>Modern Frontend</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>☁️ Azure</h3>
-      <p>Cloud & DevOps</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>🤖 AI</h3>
-      <p>AI Integration</p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Baytology
+**AI-Powered Arabic Real Estate Platform** · *Graduation Project*
+
+.NET 10 backend on **Clean Architecture + CQRS + DDD** with JWT/OAuth, Paymob payments, and real-time chat & notifications over SignalR. A hybrid AI pipeline bridges **Python microservices** (NLP chatbot, FAISS recommendation engine, voice & image search) through **RabbitMQ** with automatic fallback — powering multi-modal property search.
+
+`.NET 10` `CQRS` `DDD` `SignalR` `RabbitMQ` `Python` `FAISS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 AutoFix Pro Center
+**Workshop Management Platform** · *Personal Project*
+
+Full-stack workshop system in **ASP.NET Core + Blazor WASM + SQL Server**, featuring a work-order state machine, JWT auth, SignalR live updates, PDF invoicing, and HybridCache. Production-grade quality via a **4-layer testing pyramid** (unit, subcutaneous, integration with Testcontainers) and full observability with **Serilog, OpenTelemetry & Grafana**.
+
+`Blazor WASM` `Testcontainers` `OpenTelemetry` `Grafana` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Book Distribution & Sales System
+**Client Project** · *Freelance*
+
+Production-ready inventory and distribution platform on **ASP.NET Core + Angular + EF Core + SQLite**, with secure RESTful APIs, role-based authorization, integrated invoicing (orders, refunds, receipt vouchers), automated stock adjustments, real-time dashboard analytics, and **bilingual Arabic/English** invoice generation.
+
+`Angular` `EF Core` `Tailwind CSS` `Docker` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧱 .NET Clean Architecture Template
+**Reusable Starter Template**
+
+An opinionated **.NET 10** starter built from scratch: Clean Architecture layering, CQRS with MediatR-style pipelines, DDD building blocks, validation, and result handling — so new services start from a tested foundation instead of a blank folder.
+
+`Clean Architecture` `CQRS` `DDD` `.NET 10`
+
+</td>
+</tr>
 </table>
+
+<div align="center">
+<a href="https://github.com/Youssef-AbdelRaafi?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" /></a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-B61F23?style=flat-square&logo=nuget&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Data & Messaging**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**DevOps, Cloud & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Testing & Practices**
+
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291D89?style=flat-square&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
+![SOLID](https://img.shields.io/badge/SOLID%20%26%20Design%20Patterns-0d1117?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0d1117?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS%20%2B%20DDD-0d1117?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0d1117?style=flat-square)
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=youssef-abdelraafi&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent"
-    alt="Youssef's GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-abdelraafi&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Youssef's Top Languages"
-  />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-AbdelRaafi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-AbdelRaafi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Youssef-AbdelRaafi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F46800&currStreakLabel=58A6FF" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-AbdelRaafi&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Youssef-AbdelRaafi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=youssef-abdelraafi&hide_border=true&theme=transparent"
-    alt="Youssef's GitHub Streak"
-  />
-</p>
+### 💡 *"Architecture is the decisions you wish you could change later — so make them deliberately."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
 
-## 📈 Contribution Activity Graph
+⭐️ From [Youssef-AbdelRaafi](https://github.com/Youssef-AbdelRaafi)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-abdelraafi&bg_color=ffffff00&color=0e75b6&line=0e75b6&point=1f6feb&area=true&hide_border=true"
-    alt="Youssef's Contribution Activity Graph"
-  />
-</p>
-
----
-
-## 📅 Contribution Overview
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-abdelraafi&theme=github_dark"
-    alt="Youssef's GitHub Contribution Overview"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=youssef-abdelraafi&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    alt="Youssef's GitHub Trophies"
-  />
-</p>
-
----
-
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Youssef-AbdelRaafi/Cynosura.Studio">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-abdelraafi&repo=Cynosura.Studio&hide_border=true&theme=transparent"
-      alt="Cynosura Studio"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Youssef-AbdelRaafi?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View All Repositories"
-    />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css,bash&perline=7" alt="Programming Languages" />
-</p>
-
-### 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,sass,tailwind,js,ts&perline=8" alt="Frontend Technologies" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,graphql,rabbitmq,redis&perline=6" alt="Backend Technologies" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,nginx,linux&perline=6" alt="Cloud and DevOps" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&perline=6" alt="Databases" />
-</p>
-
-### 🧪 Testing & Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,jest,figma&perline=6" alt="Development Tools" />
-</p>
-
----
-
-## 🧰 Technology Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
-</p>
-
----
-
-## 📊 GitHub Repository Overview
-
-<p align="center">
-
-<a href="https://github.com/Youssef-AbdelRaafi?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
-<a href="https://github.com/Youssef-AbdelRaafi?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-View%20Stars-F5C518?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
-</a>
-
-<a href="https://github.com/Youssef-AbdelRaafi?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-View%20Followers-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-</a>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/youssef-abdel-raafi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:youssefdaghidi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/Youssef-AbdelRaafi">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</p>
-
----
-
-## 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1RZ7sIbX6t4wju5tmCNWFGXMI0BBIEszn/view?usp=sharing">
-    <img
-      src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
-      alt="View Resume"
-    />
-  </a>
-</p>
-
----
-
-## 💬 Let's Build Something Great
-
-<p align="center">
-  <b>Building scalable software. Exploring AI. Automating everything.</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"
-    alt="Footer"
-  />
-</p>
+</div>
