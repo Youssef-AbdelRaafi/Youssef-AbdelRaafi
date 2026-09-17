@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- Animated header: lives in YOUR repo, so it cannot go down -->
-<img src="./assets/header.svg" alt="Youssef Deghidy — Software Engineer" width="100%" />
+<img src="./header.svg" alt="Youssef Deghidy — Software Engineer" width="100%" />
 
 <br/>
 
