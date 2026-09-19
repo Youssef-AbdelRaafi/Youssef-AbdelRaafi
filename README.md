@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Youssef Deghidy</h1>
 <p>Software Engineer</p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
@@ -41,10 +41,10 @@
 
 <br>
 
-![Youssef-AbdelRaafi GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-AbdelRaafi&show_icons=true&locale=en)
+![Youssef-AbdelRaafi GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-AbdelRaafi&show_icons=true&locale=en&v=1)
 
 ![Youssef-AbdelRaafi Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-AbdelRaafi)
 
-![Youssef-AbdelRaafi Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-AbdelRaafi&show_icons=true&locale=en&layout=compact)
+![Youssef-AbdelRaafi Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-AbdelRaafi&show_icons=true&locale=en&layout=compact&v=1)
 
-[![Youssef-AbdelRaafi Trophy](https://github-profile-trophy.vercel.app/?username=Youssef-AbdelRaafi)](https://github.com/ryo-ma/github-profile-trophy)
+[![Youssef-AbdelRaafi Trophy](https://github-profile-trophy.vercel.app/?username=Youssef-AbdelRaafi&v=1)](https://github.com/ryo-ma/github-profile-trophy)
