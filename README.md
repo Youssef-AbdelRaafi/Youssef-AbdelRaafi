@@ -15,4 +15,3 @@
 
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Youssef-AbdelRaafi&show_icons=true)
 [Contribution activity](https://github.com/Youssef-AbdelRaafi?tab=overview)
-![Top languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Youssef-AbdelRaafi&layout=compact)
