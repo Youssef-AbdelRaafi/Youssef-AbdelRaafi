@@ -4,7 +4,7 @@
 
 - 📍 Cairo, Egypt
 - 🔭 I'm currently working on Freelance Projects
-- 🌱 I'm learning Rust and distributed systems
+- 🌱 I'm learning Azure DevOps and distributed systems
 - 📫 Reach me at youssefdaghidi@gmail.com
 
 ## Tech stack
