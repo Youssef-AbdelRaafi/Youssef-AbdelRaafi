@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  "Crafting efficient systems and turning complex ideas into elegant software. Check out my latest work below."
+  "Crafting efficient systems and turning complex ideas into elegant software."
 </p>
 
 <p align="center">
